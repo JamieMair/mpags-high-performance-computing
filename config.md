@@ -14,7 +14,7 @@ ignore = ["node_modules/"]
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
 website_title = "High Performance Computing in Julia, from the ground up"
-website_descr = "An MPAGs module for learning high performance computing using the Julia programming language."
+website_descr = "An MPAGS module for learning high performance computing using the Julia programming language."
 website_url   = "https://JamieMair.github.io/FranklinTemplates.jl/"
 +++
 

@@ -4157,7 +4157,10 @@ a.reversefootnote:hover {
 
 .archive__item-teaser img {
   width: 100%;
+  aspect-ratio: 16/10;
+  object-fit: cover;
 }
+
 
 .archive__item-caption {
   position: absolute;
@@ -4978,6 +4981,7 @@ a.reversefootnote:hover {
     border: 0;
     text-decoration: none;
   }
+
 
   table,
   blockquote,
