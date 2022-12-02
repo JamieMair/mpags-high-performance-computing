@@ -3,15 +3,19 @@
 
 # High Performance Computing in Julia, from the ground up.
 
-This module is designed for teaching programming to new Masters/PhD students, starting from the basics and working up to writing high performance code for any scale. This module will primarily be delivered via the Midlands Physics Alliance Graduate School ([MPAGS](https://warwick.ac.uk/fac/sci/physics/mpags/modules/)). The module is open to anyone else who is interested in the material. All of the resources (including the lecture notes) will be available publically. Get in touch with me via [email](mailto:jamie.mair@nottingham.ac.uk) if you would like to enroll, and receive updates about the course.
+This module is designed for teaching programming to new Masters/PhD students, starting from the basics and working up to writing high performance code for any scale. This module will primarily be delivered via the Midlands Physics Alliance Graduate School ([MPAGS](https://warwick.ac.uk/fac/sci/physics/mpags/modules/)). The module is open to anyone else who is interested in the material. All of the resources (including the lecture notes) will be available publicly. Get in touch with me via [email](mailto:jamie.mair@nottingham.ac.uk) if you would like to enroll, and receive updates about the course.
 
 ## Prerequisites
 
 Students taking this course should match following description:
-1. Have at least some limited experience with programming in **any** language, e.g. Python, MATLAB, C/C++ etc.
+1. Have **at least** some limited experience with programming in **any** language, e.g. Python, MATLAB, C/C++ etc.
+2. Basic mathematics skills, including elementary algebra and calculus.
+3. Willingness to learn something new!
 
+No prior knowledge about the Julia programming language is required as this course will provide a crash course to get everyone up to speed at the start of the module. Topics learnt during this course are **not** based solely around Julia, but can be transferred to other languages.
 
-Students taking this course are assumed to have at least *limited experience* with programming before. No prior knowledge about the Julia programming language is required. This course will focus on teaching the fundamentals of scientific programming in the first few weeks and working up to High Performance Computing concepts such as parallel computing, GPU programming etc.
+# Topics
+This module will focus on teaching students how to write high performance code, taking advantage of modern hardware, to be able to execute code at any scale, from your own machine with multiple cores, to using a GPU, all the way to executing code across an entire High Performance Cluster. We will also focus on teaching Research Software Engineering techniques throughout the module.
 
 See the [Topics](/topics/) page for a detailed overview of the topics covered.
 
