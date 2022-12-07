@@ -36,7 +36,7 @@ The assessment and submission will be done via GitHub Classroom, which allows fo
 
 ## Computing Resources
 
-During this course, you should be able to do everything on your own personal machine. I would advice trying to run some code on your local cluster as well if you have access. However, not everybody has access to a GPU, and specifically during part of the course, you will need access to a modern NVIDIA GPU. If you have access to your local institution's HPC already, but do not have GPU access, you can ask your local admin to give you a small number of GPU hours (around 20 should be more than enough).
+During this course, you should be able to do everything on your own personal machine. I would advise trying to run some code on your local cluster as well if you have access. However, not everybody has access to a GPU, and specifically during part of the course, you will need access to a modern NVIDIA GPU. If you have access to your local institution's HPC already, but do not have GPU access, you can ask your local admin to give you a small number of GPU hours (around 20 should be more than enough).
 
 Another option is to use Google Colab which has free access to GPU resources for testing. There is also a cheap paid option for better access. The [notebook linked here](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb) has instructions for how to setup Julia and CUDA. This is the easiest way to get started.
 
