@@ -1,38 +1,32 @@
-@def title = "Resources"
+@def title = "Timetable and Resources"
 @def tags = ["syntax", "code"]
-
-# Course Schedule 2022/23
-
-The provisional starting date of this course is in January 2023, w/c 16th. Lectures will happen on **Tuesdays 4-5pm** UK time and workshops will happen **4-5pm** on **Thursdays**.
-
-| Week | Lecture                  | Workshop                 |
-|------|--------------------------|--------------------------|
-| 1    | **17/01/23** 16:00-17:00 | **19/01/23** 16:00-17:00 |
-| 2    | **24/01/23** 16:00-17:00 | **26/01/23** 16:00-17:00 |
-| 3    | **31/01/23** 16:00-17:00 | **02/02/23** 16:00-17:00 |
-| 4    | **07/02/23** 16:00-17:00 | **09/02/23** 16:00-17:00 |
-| 5    | **14/02/23** 16:00-17:00 | **16/02/23** 16:00-17:00 |
-
 
 # Course Resources
 \toc
 
 ## Lecture Notes
 
-The lecture notes for this module are available in PDF format soon. 
+The lecture notes for this module are available in PDF format in early January.
 <!-- [here](/404/). -->
 
 ## GitHub Classroom
 
-The assessment and submission will be done via GitHub Classroom, which allows for automated marking and feedback. The assignment for each week will be emailed to everyone enrolled in the class.
+The assessment and submission will be done via GitHub Classroom, which allows for automated marking and feedback. The assignment for each week will be emailed to everyone enrolled in the class. You will need a GitHub account (it's free!) to sign up.
+
+**Git/GitHub Refresher**
+
+For this course, you do **not** need to be an expert with Git, but its use is encouraged. The video below gives an overview of Git for researchers, but any Git video/tutorial should be enough. Basic usage needed for the course will be covered during the first workshop.
+
+[![Git and GitHub refresher](https://img.youtube.com/vi/CuOmaUS1FnM/0.jpg)](https://youtu.be/CuOmaUS1FnM)
 
 ## Assignments
 
 1. Week 1 - Getting Started with Julia: Workflow and Setup
-2. Week 2 - TBD
+2. Week 2 - Profiling and Optimisation
 3. Week 3 - TBD
 4. Week 4 - TBD
 5. Week 5 - TBD
+
 
 ## Computing Resources
 
