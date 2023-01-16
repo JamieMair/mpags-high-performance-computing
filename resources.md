@@ -6,7 +6,7 @@
 
 ## Lecture Notes
 
-The lecture notes for this module are available in PDF format in early January.
+The lecture notes will be released Tuesday 17th January.
 <!-- [here](/404/). -->
 
 ## GitHub Classroom
