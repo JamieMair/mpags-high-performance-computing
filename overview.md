@@ -25,7 +25,7 @@ This course is taught by me, **Jamie Mair**, a final-year PhD student at the Uni
 
 # Timetable and format
 
-This course will run in the spring term (**January 2023**), starting on Tuesday 17th January. The format of this course will be a 2 1-hour sessions each week on Tuesday and Thursday, being taught at the University of Nottingham in the Physics building (exact rooms are TBD but will be posted on the [Timetable](/timetable/) page). 
+This course will run in the spring term (**January 2023**), starting on Tuesday 17th January. The format of this course will be a 2 1-hour sessions each week on Tuesday and Thursday, being taught at the University of Nottingham in the Physics building, and livestreamed on Teams (link will be sent round via email). Rooms for each session will be posted on the [Timetable](/timetable/) page.
 
 The Tuesday session will be a lecture covering the theoretical material. The Thursday session will be a hybrid lecture/workshop to give you the opportunity to practice what is taught in the lectures through the assignments.
 
