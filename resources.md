@@ -6,7 +6,7 @@
 
 ## Lecture Notes
 
-The lecture notes are available [here](/mpags-high-performance-computing/assets/book_v1.0.pdf). They are a work in progress and may change.
+The lecture notes are available [here](/assets/book_v1.0.pdf). They are a work in progress and may change.
 
 ### Lecture Notes Changelog:
 **Current Version: v1.0 (17/01/2023)**
