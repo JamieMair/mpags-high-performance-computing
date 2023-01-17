@@ -1,11 +1,11 @@
 @def title = "Timetable"
 @def tags = ["syntax", "code"]
 
-**Announcement: Room switch to Physics A1 (Seminar Room) instead of B5 for Tuesday 17th Lecture**
-
 # Course Schedule 2022/23
 
 The provisional starting date of this course is in January 2023, w/c 16th. Lectures will happen on **Tuesdays 4-5pm** UK time and workshops will happen **4-5pm** on **Thursdays**.
+
+**Note**: Rooms will aim to be A1 Physics at the University of Nottingham, but cannot be booked.
 
 | Week | Lecture                                     | Workshop                                    |
 |------|---------------------------------------------|---------------------------------------------|
