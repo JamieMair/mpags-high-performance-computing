@@ -6,8 +6,10 @@
 
 ## Lecture Notes
 
-The lecture notes will be released Tuesday 17th January.
-<!-- [here](/404/). -->
+The lecture notes are available [here](https://uniofnottm-my.sharepoint.com/:b:/g/personal/jamie_mair_nottingham_ac_uk/EYEy7Y5Z10FBrAvM4te_cLcBRt7ghls59d1-yZvWB05zYA?e=Blz57S). They are a work in progress and may change.
+
+### Lecture Notes Changelog:
+**Current Version: v1.0 (17/01/2023)**
 
 ## GitHub Classroom
 
