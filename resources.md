@@ -8,8 +8,15 @@
 
 The lecture notes are available [here](/assets/book_v1.0.pdf). They are a work in progress and may change.
 
-### Lecture Notes Changelog:
+### Changelog:
 **Current Version: v1.0 (17/01/2023)**
+
+## Lecture Recordings (2023)
+
+### (1/10) Hardware & Software Basics
+
+[![HPC in Julia Week 1 Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
+
 
 ## GitHub Classroom
 
