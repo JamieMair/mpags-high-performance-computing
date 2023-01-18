@@ -11,16 +11,6 @@ The lecture notes are available [here](/assets/book_v1.0.pdf). They are a work i
 ### Changelog:
 **Current Version: v1.0 (17/01/2023)**
 
-## Lecture Recordings (2023)
-
-### (1/10) Hardware & Software Basics
-<details>
-    <summary>Expand Video</summary>
-
-[![HPC in Julia Week 1 Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
-</details>
-
-
 
 ## GitHub Classroom
 
@@ -48,3 +38,8 @@ During this course, you should be able to do everything on your own personal mac
 Another option is to use Google Colab which has free access to GPU resources for testing. There is also a cheap paid option for better access. The [notebook linked here](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb) has instructions for how to setup Julia and CUDA. This is the easiest way to get started.
 
 If you are from UoN and are struggling to access GPUs, contact [myself](mailto:jamie.mair@nottingham.ac.uk) to see if we can arrange temporary access to our in-house Physics cluster. Access to this cluster **cannot** be guaranteed, and we advise students to use this as a last resort.
+
+## Lecture Recordings (2023)
+
+### (1/10) Hardware & Software Basics
+[![HPC in Julia Week 1 Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
