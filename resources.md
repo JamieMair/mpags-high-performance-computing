@@ -14,8 +14,12 @@ The lecture notes are available [here](/assets/book_v1.0.pdf). They are a work i
 ## Lecture Recordings (2023)
 
 ### (1/10) Hardware & Software Basics
+<details>
+    <summary>Expand Video</summary>
 
 [![HPC in Julia Week 1 Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
+</details>
+
 
 
 ## GitHub Classroom
