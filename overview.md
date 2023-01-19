@@ -1,6 +1,8 @@
 @def title = "Overview"
 @def tags = ["syntax", "code"]
 
+**NOTE: All sessions will be in B17 Physics**
+
 # High Performance Computing in Julia, from the ground up.
 
 This module is designed for teaching programming to new Masters/PhD students, starting from the basics and working up to writing high performance code for any scale. This module will primarily be delivered via the Midlands Physics Alliance Graduate School ([MPAGS](https://warwick.ac.uk/fac/sci/physics/mpags/modules/)). The module is open to anyone else who is interested in the material. All of the resources (including the lecture notes) will be available publicly. Get in touch with me via [email](mailto:jamie.mair@nottingham.ac.uk) if you would like to enroll, and receive updates about the course.
