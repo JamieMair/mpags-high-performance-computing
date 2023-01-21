@@ -39,7 +39,15 @@ Another option is to use Google Colab which has free access to GPU resources for
 
 If you are from UoN and are struggling to access GPUs, contact [myself](mailto:jamie.mair@nottingham.ac.uk) to see if we can arrange temporary access to our in-house Physics cluster. Access to this cluster **cannot** be guaranteed, and we advise students to use this as a last resort.
 
-## Lecture Recordings (2023)
+## Lecture Slides & Recordings (2023)
 
 ### (1/10) Hardware & Software Basics
-[![HPC in Julia Week 1 Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
+[Lecture Slides](/assets/slides/session_1.pdf)
+[![HPC in Julia (1/10) Lecture Video](https://img.youtube.com/vi/Y1W-PrIaPJ4/0.jpg)](https://youtu.be/Y1W-PrIaPJ4)
+
+### (2/10) SIMD & The Stack and the Heap
+[Lecture Slides](/assets/slides/session_2.pdf)
+[![HPC in Julia (2/10) Lecture Video](https://img.youtube.com/vi/YQ6fnFCVa9E/0.jpg)](https://youtu.be/YQ6fnFCVa9E)
+
+#### Errata
+- Final operator in the stack example should evaluate as a `-` instead of a `+`.
