@@ -1,4 +1,4 @@
-@def title = "Timetable and Resources"
+@def title = "Resources"
 @def tags = ["syntax", "code"]
 
 # Course Resources
