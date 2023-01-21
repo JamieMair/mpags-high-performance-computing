@@ -24,7 +24,7 @@ For this course, you do **not** need to be an expert with Git, but its use is en
 
 ## Assignments
 
-1. Week 1 - Getting Started with Julia: Workflow and Setup
+1. Week 1 - Getting Started with Julia: Workflow and Setup - [click here](https://classroom.github.com/a/3bYk2x83)
 2. Week 2 - Profiling and Optimisation
 3. Week 3 - TBD
 4. Week 4 - TBD
