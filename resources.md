@@ -6,10 +6,12 @@
 
 ## Lecture Notes
 
-The lecture notes are available [here](/assets/book_v1.0.pdf). They are a work in progress and may change.
+The lecture notes are available [here](/assets/book_v1.1.pdf). They are a work in progress and may change.
 
 ### Changelog:
-**Current Version: v1.0 (17/01/2023)**
+**Current Version: v1.1 (23/01/2023)**
+
+- Updated to v1.1: Improved Chapters 5 and 6: Measuring Performance and Optimisation.
 
 
 ## GitHub Classroom
