@@ -51,3 +51,7 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 
 #### Errata
 - Final operator in the stack example should evaluate as a `-` instead of a `+`.
+
+### (3/10) Measuring Performance & Optimisation
+[Lecture Slides](/assets/slides/session_3.pdf)
+[![HPC in Julia (3/10) Lecture Video](https://img.youtube.com/vi/EbI49BPcOEs/0.jpg)](https://youtu.be/EbI49BPcOEs)
