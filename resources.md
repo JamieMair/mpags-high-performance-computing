@@ -57,3 +57,8 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 ### (3/10) Measuring Performance & Optimisation
 [Lecture Slides](/assets/slides/session_3.pdf)
 [![HPC in Julia (3/10) Lecture Video](https://img.youtube.com/vi/EbI49BPcOEs/0.jpg)](https://youtu.be/EbI49BPcOEs)
+
+### (4/10) Optimisation & Type Safety
+**Code Repository:**
+
+[https://github.com/JamieMair/MPAGS_Slides_Examples](https://github.com/JamieMair/MPAGS_Slides_Examples)
