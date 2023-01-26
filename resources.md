@@ -6,7 +6,7 @@
 
 ## Lecture Notes
 
-The lecture notes are available [here](/assets/book_v1.1.pdf). They are a work in progress and may change.
+The lecture notes are available [here](/assets/book_v1.2.pdf). They are a work in progress and may change.
 
 ### Changelog:
 **Current Version: v1.1 (23/01/2023)**
