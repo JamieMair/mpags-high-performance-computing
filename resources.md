@@ -61,4 +61,7 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 ### (4/10) Optimisation & Type Safety
 **Code Repository:**
 
-[https://github.com/JamieMair/MPAGS_Slides_Examples](https://github.com/JamieMair/MPAGS_Slides_Examples)
+[https://github.com/JamieMair/MPAGS\_Slides\_Examples](https://github.com/JamieMair/MPAGS_Slides_Examples)
+
+[Lecture Slides](/assets/slides/session_4.pdf)
+[![HPC in Julia (4/10) Lecture Video](https://img.youtube.com/vi/wrrmWpZLAS4/0.jpg)](https://youtu.be/wrrmWpZLAS4)
