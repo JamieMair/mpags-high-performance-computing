@@ -8,10 +8,11 @@
 
 The lecture notes are available [here](/assets/book_v1.2.pdf). They are a work in progress and may change.
 
-### Changelog:
-**Current Version: v1.1 (23/01/2023)**
+### Changelog
+**Current Version: v1.2 (23/01/2023)**
 
 - Updated to v1.1: Improved Chapters 5 and 6: Measuring Performance and Optimisation.
+- Updated to v1.2
 
 
 ## GitHub Classroom
@@ -65,3 +66,8 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 
 [Lecture Slides](/assets/slides/session_4.pdf)
 [![HPC in Julia (4/10) Lecture Video](https://img.youtube.com/vi/wrrmWpZLAS4/0.jpg)](https://youtu.be/wrrmWpZLAS4)
+
+### (5/10) Introduction to Parallel Programming
+
+[Lecture Slides](/assets/slides/session_5.pdf)
+[![HPC in Julia (5/10) Lecture Video](https://img.youtube.com/vi/S1fhOIaZEf0/0.jpg)](https://youtu.be/S1fhOIaZEf0)
