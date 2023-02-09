@@ -1,7 +1,6 @@
 @def title = "Overview"
 @def tags = ["syntax", "code"]
 
-**NOTE: All sessions will be in B17 Physics**
 
 # High Performance Computing in Julia, from the ground up.
 
