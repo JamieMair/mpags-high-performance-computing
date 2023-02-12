@@ -71,3 +71,17 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 
 [Lecture Slides](/assets/slides/session_5.pdf)
 [![HPC in Julia (5/10) Lecture Video](https://img.youtube.com/vi/S1fhOIaZEf0/0.jpg)](https://youtu.be/S1fhOIaZEf0)
+
+### (6/10) Multithreading
+
+[Lecture Slides](/assets/slides/session_6.pdf)
+[![HPC in Julia (6/10) Lecture Video](https://img.youtube.com/vi/21uLzFmxeU4/0.jpg)](https://youtu.be/21uLzFmxeU4)
+### (7/10) Multiprocessing & Cluster Computing
+
+[Lecture Slides](/assets/slides/session_7.pdf)
+[![HPC in Julia (7/10) Lecture Video](https://img.youtube.com/vi/mN60PGp1_Lo/0.jpg)](https://youtu.be/mN60PGp1_Lo)
+
+### (8/10) Introduction to Parallel Programming
+
+[Lecture Slides](/assets/slides/session_8.pdf)
+[![HPC in Julia (8/10) Lecture Video](https://img.youtube.com/vi/Wfg0wjHBk00/0.jpg)](https://youtu.be/Wfg0wjHBk00)
