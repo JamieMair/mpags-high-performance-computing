@@ -81,7 +81,12 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 [Lecture Slides](/assets/slides/session_7.pdf)
 [![HPC in Julia (7/10) Lecture Video](https://img.youtube.com/vi/mN60PGp1_Lo/0.jpg)](https://youtu.be/mN60PGp1_Lo)
 
-### (8/10) Introduction to Parallel Programming
+### (8/10) Research Software Engineering
 
 [Lecture Slides](/assets/slides/session_8.pdf)
 [![HPC in Julia (8/10) Lecture Video](https://img.youtube.com/vi/Wfg0wjHBk00/0.jpg)](https://youtu.be/Wfg0wjHBk00)
+
+
+### (9/10) Introduction to GPU Programming & CUDA.jl
+
+[Lecture Slides](/assets/slides/session_9.pdf)
