@@ -31,7 +31,7 @@ For this course, you do **not** need to be an expert with Git, but its use is en
 2. Week 2 - Profiling and Optimisation - [click here](https://classroom.github.com/a/HFbbhcO1) 
 3. Week 3 - Multithreading - [click here](https://classroom.github.com/a/HqKUZUwc)
 4. Week 4 - Multiprocessing - [click here](https://classroom.github.com/a/y9jTWq3J)
-5. Week 5 - GPU Programming
+5. Week 5 - GPU Programming - [click here](https://classroom.github.com/a/q9ycWkI6)
 
 
 ## Computing Resources
