@@ -56,10 +56,12 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 - Final operator in the stack example should evaluate as a `-` instead of a `+`.
 
 ### (3/10) Measuring Performance & Optimisation
+
 [Lecture Slides](/assets/slides/session_3.pdf)
 [![HPC in Julia (3/10) Lecture Video](https://img.youtube.com/vi/EbI49BPcOEs/0.jpg)](https://youtu.be/EbI49BPcOEs)
 
 ### (4/10) Optimisation & Type Safety
+
 **Code Repository:**
 
 [https://github.com/JamieMair/MPAGS\_Slides\_Examples](https://github.com/JamieMair/MPAGS_Slides_Examples)
@@ -76,6 +78,7 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 
 [Lecture Slides](/assets/slides/session_6.pdf)
 [![HPC in Julia (6/10) Lecture Video](https://img.youtube.com/vi/21uLzFmxeU4/0.jpg)](https://youtu.be/21uLzFmxeU4)
+
 ### (7/10) Multiprocessing & Cluster Computing
 
 [Lecture Slides](/assets/slides/session_7.pdf)
@@ -90,3 +93,9 @@ If you are from UoN and are struggling to access GPUs, contact [myself](mailto:j
 ### (9/10) Introduction to GPU Programming & CUDA.jl
 
 [Lecture Slides](/assets/slides/session_9.pdf)
+[![HPC in Julia (9/10) Lecture Video](https://img.youtube.com/vi/H3IKa0p66UU/0.jpg)](https://youtu.be/H3IKa0p66UU)
+
+### (10/10) CUDA.jl Kernel Programming
+
+[Lecture Slides](/assets/slides/session_10.pdf)
+[![HPC in Julia (10/10) Lecture Video](https://img.youtube.com/vi/M5GMwMtvsnM/0.jpg)](https://youtu.be/M5GMwMtvsnM)

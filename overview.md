@@ -15,8 +15,6 @@ Students taking this course should match following description:
 
 No prior knowledge about the Julia programming language is required as this course will provide a crash course to get everyone up to speed at the start of the module. Topics learnt during this course are **not** based solely around Julia, but can be transferred to other languages.
 
-**Announcement: Room switch to Physics A1 (Seminar Room) instead of B5**
-
 # Topics
 This module will focus on teaching students how to write high performance code, taking advantage of modern hardware, to be able to execute code at any scale, from your own machine with multiple cores, to using a GPU, all the way to executing code across an entire High Performance Cluster. We will also touch on Research Software Engineering techniques throughout the module.
 
