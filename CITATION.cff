@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If this course is useful for your research, please consider citing this work."
+authors:
+  - family-names: Mair
+    given-names: Jamie
+    orcid: https://orcid.org/0000-0002-1694-8694
+title: "High Performance Computing in Julia"
+version: 1.2
+date-released: 2023-01-18
+url: https://jamiemair.github.io/mpags-high-performance-computing
