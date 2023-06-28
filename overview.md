@@ -37,3 +37,17 @@ The bulk of the reference material will be provided in the format of a book/lect
 Each week of teaching will have a corresponding assessment delivered via GitHub classroom, with automatic feedback/marking. These problems are usually short and will be started in the workshop and hopefully finished during the workshop on Thursdays. Some assignments may take more time outside the workshop. 
 
 More details can be found on the [Resources](/resources/) page.
+
+# Citation
+
+If this course is useful for your research, please consider citing this work:
+```txt
+@misc{Mair2023MPAGS,
+  author        = {Jamie Mair},
+  title         = {High Performance Computing in Julia, Graduate Course and Book},
+  month         = {January},
+  year          = {2023},
+  howpublished  = "\url{https://jamiemair.github.io/mpags-high-performance-computing}"
+  version       = {1.2}
+}
+```
