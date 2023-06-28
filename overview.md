@@ -47,7 +47,8 @@ If this course is useful for your research, please consider citing this work:
   title         = {High Performance Computing in Julia, Graduate Course and Book},
   month         = {January},
   year          = {2023},
-  howpublished  = "\url{https://jamiemair.github.io/mpags-high-performance-computing}"
+  howpublished  = "\url{https://jamiemair.github.io/mpags-high-performance-computing}",
+  url           = "\url{https://jamiemair.github.io/mpags-high-performance-computing}",
   version       = {1.2}
 }
 ```
