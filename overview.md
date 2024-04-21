@@ -22,7 +22,7 @@ See the [Topics](/topics/) page for a detailed overview of the topics covered.
 
 # Module Convenor
 
-This course is taught by me, **Jamie Mair**, a final-year PhD student at the University of Nottingham studying Machine Learning in Physics. You can contact me about the course via [email](mailto:jamie.mair@nottingham.ac.uk).
+This course is taught by me, **Jamie Mair**, a Research & Teaching Fellow at the University of Nottingham. You can contact me about the course via [email](mailto:jamie.mair@nottingham.ac.uk).
 
 # Timetable and format
 
