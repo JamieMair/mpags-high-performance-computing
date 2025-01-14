@@ -6,7 +6,7 @@
 
 ## Lecture Notes
 
-The lecture notes are available [here](/assets/book_v1.2.pdf). They are a work in progress and may change.
+The original lecture notes from 2023 are available [here](/assets/book_v1.2.pdf). The new course notes will be posted online on a different website, with entries posted weekly to accompany the video material. Links to the book are kept here for reference.
 
 ### Changelog
 **Current Version: v1.2 (23/01/2023)**
@@ -27,22 +27,28 @@ For this course, you do **not** need to be an expert with Git, but its use is en
 
 ## Assignments
 
-1. Week 1 - Getting Started with Julia: Workflow and Setup - [click here](https://classroom.github.com/a/3bYk2x83)
-2. Week 2 - Profiling and Optimisation - [click here](https://classroom.github.com/a/HFbbhcO1) 
-3. Week 3 - Multithreading - [click here](https://classroom.github.com/a/HqKUZUwc)
-4. Week 4 - Multiprocessing - [click here](https://classroom.github.com/a/y9jTWq3J)
-5. Week 5 - GPU Programming - [click here](https://classroom.github.com/a/q9ycWkI6)
+1. Week 1 - Getting Started with Julia: Workflow and Setup - TBA
+2. Week 2 - Profiling and Optimisation - TBA
+3. Week 3 - Multithreading - TBA
+4. Week 4 - Multiprocessing - TBA
+5. Week 5 - GPU Programming - TBA
 
 
 ## Computing Resources
 
-During this course, you should be able to do everything on your own personal machine. I would advise trying to run some code on your local cluster as well if you have access. However, not everybody has access to a GPU, and specifically during part of the course, you will need access to a modern NVIDIA GPU. If you have access to your local institution's HPC already, but do not have GPU access, you can ask your local admin to give you a small number of GPU hours (around 20 should be more than enough).
+During this course, you should be able to do everything on your own personal machine. I would advise trying to run some code on your local cluster as well if you have access. You will benefit from being able to access a GPU, but it is not a requirement for this course. Being able to test and run your GPU code locally will make it easier to complete the final assessment, but it can be done without one. If you have access to your local institution's HPC already, but do not have GPU access, you can ask your local admin to give you a small number of GPU hours (around 20 should be more than enough).
 
-Another option is to use Google Colab which has free access to GPU resources for testing. There is also a cheap paid option for better access. The [notebook linked here](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb) has instructions for how to setup Julia and CUDA. This is the easiest way to get started.
+Another option is to use Google Colab which has free access to GPU resources for testing. There is also a cheap paid option for better access. The [notebook linked here](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb) has instructions for how to setup Julia and CUDA, however this notebook may not work for everyone.
 
 If you are from UoN and are struggling to access GPUs, contact [myself](mailto:jamie.mair@nottingham.ac.uk) to see if we can arrange temporary access to our in-house Physics cluster. Access to this cluster **cannot** be guaranteed, and we advise students to use this as a last resort.
 
-## Lecture Slides & Recordings (2023)
+## Videos
+
+*No videos for 2025 have been posted yet. Sign up to the mailing list to recieve updates, or check back later to find new videos.*
+
+## Lecture Slides & Recordings Archive (2023)
+
+Below is an **archive** of the original lecture videos and accompanying slides. The new videos in 2025 will largely follow the same content, with a few sections expanded upon and others removed. In particular, these recordings do not include the in-person workshops that were ran in 2025.
 
 ### (1/10) Hardware & Software Basics
 [Lecture Slides](/assets/slides/session_1.pdf)
