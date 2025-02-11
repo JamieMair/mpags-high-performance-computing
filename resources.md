@@ -13,7 +13,7 @@ The lecture content has been updated and split across several smaller videos. Th
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA)
 
-Unfortunately, these videos have an unreasonable amount of ads, so I would encourage users to use an AdBlocker, like UBlock Origin (Firefox) to improve your experience.
+Unfortunately, these videos have an unreasonable amount of ads, so I would encourage viewers to use an AdBlocker, like UBlock Origin (Firefox) to improve your experience.
 
 ## Lecture Notes
 
