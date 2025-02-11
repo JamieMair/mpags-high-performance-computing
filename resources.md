@@ -4,9 +4,20 @@
 # Course Resources
 \toc
 
+
+# 2025 Video Series (New)
+
+I have refreshed this course to run, starting from January 2025. All materials will be kept online for reference at any later point.
+
+The lecture content has been updated and split across several smaller videos. These are available on YouTube, with the playlist below:
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA)
+
+Unfortunately, these videos have an unreasonable amount of ads, so I would encourage users to use an AdBlocker, like UBlock Origin (Firefox) to improve your experience.
+
 ## Lecture Notes
 
-The original lecture notes from 2023 are available [here](/assets/book_v1.2.pdf). The new course notes will be posted online on a different website, with entries posted weekly to accompany the video material. Links to the book are kept here for reference.
+The original lecture notes from 2023 are available [here](/assets/book_v1.2.pdf). The new course notes will be posted online on my personal website: [jamiemair.co.uk/courses/hpc](https://www.jamiemair.co.uk/courses/hpc). Entries posted weekly to accompany the video material. Links to the book are kept [here](/assets/book_v1.2.pdf) for reference.
 
 ### Changelog
 **Current Version: v1.2 (23/01/2023)**
@@ -27,11 +38,17 @@ For this course, you do **not** need to be an expert with Git, but its use is en
 
 ## Assignments
 
-1. Week 1 - Getting Started with Julia: Workflow and Setup - TBA
+1. Week 1 - Getting Started with Julia: Workflow and Setup - Announced
 2. Week 2 - Profiling and Optimisation - TBA
 3. Week 3 - Multithreading - TBA
 4. Week 4 - Multiprocessing - TBA
 5. Week 5 - GPU Programming - TBA
+
+**The deadline for all assessments for the 2025 course is the 1st April 2025. This deadline only applies to those enrolled on the MPAGS course.**
+
+More information about the assignments is in [this video](https://www.youtube.com/watch?v=utSBW48wzGM&list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA&index=3).
+
+If you need help getting set up with the assignments, watch [this video](https://www.youtube.com/watch?v=ag-AEUkHRnQ&list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA&index=6).
 
 
 ## Computing Resources

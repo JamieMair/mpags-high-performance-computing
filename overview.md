@@ -27,7 +27,7 @@ This course is taught by me, **Dr. Jamie Mair**, a Research & Teaching Fellow at
 
 # Timetable and format
 
-This course will be a self-study module, run in **January 2025**, starting in the w/c Monday 20th January. Each week a series of online videos will be posted, along with accompanying notes online. To be notified of each week's materials, as well as recieving links to the assessment materials, please [email](mailto:jamie.mair@nottingham.ac.uk) me directly to sign up. At the end of the course, once all materials have been posted, links to them will be posted here.
+This course will be a self-study module, run in **January 2025**, starting in the w/c Monday 20th January. Each week a series of online videos will be posted, along with accompanying notes online. To be notified of each week's materials, as well as receiving links to the assessment materials, please [email](mailto:jamie.mair@nottingham.ac.uk) me directly to sign up. At the end of the course, once all materials have been posted, links to them will be posted here.
 
 # Assessment
 
