@@ -1,6 +1,6 @@
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.11.2"
+julia_version = "1.11.3"
 manifest_format = "2.0"
 project_hash = "b624ff2117a370fbbc58955a02126cf4545f031e"
 
@@ -23,15 +23,15 @@ version = "0.1.9"
 
 [[deps.CodecZlib]]
 deps = ["TranscodingStreams", "Zlib_jll"]
-git-tree-sha1 = "bce6804e5e6044c6daab27bb533d1295e4a2e759"
+git-tree-sha1 = "545a177179195e442472a1c4dc86982aa7a1bef0"
 uuid = "944b1d66-785c-5afd-91f1-9de20f533193"
-version = "0.7.6"
+version = "0.7.7"
 
 [[deps.ConcurrentUtilities]]
 deps = ["Serialization", "Sockets"]
-git-tree-sha1 = "f36e5e8fdffcb5646ea5da81495a5a7566005127"
+git-tree-sha1 = "d9d26935a0bcffc87d2613ce14c527c99fc543fd"
 uuid = "f0e56b4a-5159-44fe-b623-3e5288b988bb"
-version = "2.4.3"
+version = "2.5.0"
 
 [[deps.Dates]]
 deps = ["Printf"]
@@ -214,9 +214,9 @@ uuid = "458c3c95-2e84-50aa-8efc-19380b2a3a95"
 version = "3.0.15+3"
 
 [[deps.OrderedCollections]]
-git-tree-sha1 = "12f1439c4f986bb868acda6ea33ebc78e19b95ad"
+git-tree-sha1 = "cc4054e898b852042d7b503313f7ad03de99c3dd"
 uuid = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
-version = "1.7.0"
+version = "1.8.0"
 
 [[deps.Parsers]]
 deps = ["Dates", "PrecompileTools", "UUIDs"]
