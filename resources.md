@@ -4,6 +4,9 @@
 # Course Resources
 \toc
 
+# New Website (IMPORTANT)
+
+**Note**: The website resources have moved to [jamiemair.co.uk/courses/hpc](https://jamiemair.co.uk/courses/hpc). This website will remain as an arxiv for the old version of the course.
 
 # 2025 Video Series (New)
 
@@ -12,6 +15,8 @@ I have refreshed this course to run, starting from January 2025. All materials w
 The lecture content has been updated and split across several smaller videos. These are available on YouTube, with the playlist below:
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLUAq6xQKFgGr39PiyrPk_C9dhBKvWcjUA)
+
+
 
 Unfortunately, these videos have an unreasonable amount of ads, so I would encourage viewers to use an AdBlocker, like UBlock Origin (Firefox) to improve your experience.
 

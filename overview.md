@@ -6,6 +6,11 @@
 
 This module is designed for teaching programming to new Masters/PhD students, starting from the basics and working up to writing high performance code for any scale. This module will primarily be delivered via the Midlands Physics Alliance Graduate School ([MPAGS](https://warwick.ac.uk/fac/sci/physics/mpags/modules/)). The module is open to anyone else who is interested in the material. All of the resources (including the lecture notes) will be available publicly. Get in touch with me via [email](mailto:jamie.mair@nottingham.ac.uk) if you would like to enroll, and receive updates about the course.
 
+
+# New Website (IMPORTANT)
+
+**Note**: The website resources have moved to [jamiemair.co.uk/courses/hpc](https://jamiemair.co.uk/courses/hpc). This website will remain as an arxiv for the old version of the course.
+
 ## Prerequisites
 
 Students taking this course should match following description:
